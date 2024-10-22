@@ -1,0 +1,19 @@
+.group-selector {
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  .group-selector label {
+    margin-right: 10px;
+    font-weight: 500;
+    color: #555;
+  }
+  
+  .group-selector select {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 0.9rem;
+    color: #333;
+  }
+  
